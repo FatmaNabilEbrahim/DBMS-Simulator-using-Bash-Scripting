@@ -1,4 +1,4 @@
-# DBMS-Simulator-using-Bash-Scripting
+
 # DBMS Simulator using Bash Scripting
 
 ## Project Description
